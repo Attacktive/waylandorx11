@@ -31,7 +31,7 @@ the extension.
 Issue the following commands:
 
 ```
-git clone https://github.com/injcristianrojas/waylandorx11.git
+git clone https://github.com/Attacktive/waylandorx11.git
 cd waylandorx11
 make install
 ```
