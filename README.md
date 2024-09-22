@@ -1,8 +1,5 @@
 # Am I using Wayland or X11?
 
-UPDATE (July 2024): All distros seem to be sunsetting the use of X11, and Wayland
-support has been improving in meeting applications. Archiving this repo.
-
 ## Intro: The use case
 
 Fedora 36 was launched on may 2022. It included full Wayland support. But some
@@ -43,5 +40,4 @@ Restart GNOME and you should see the corresponding window manager icon.
 
 ## Support
 
-This extension works on GNOME versions 45 and up. If you need legacy
-support (GNOME versions 40-44), switch to the `gnome_40_44` branch.
+This extension works on GNOME versions `45` to `47`.
